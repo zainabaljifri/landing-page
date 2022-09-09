@@ -28,7 +28,8 @@ a:hover{
 }
 
 .box {
-  background: #E4E9F3;
+  background: rgb(228,233,243);
+  background: linear-gradient(180deg, rgba(228,233,243,1) 0%, rgba(255,255,255,1) 35%);
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   margin: 7% auto;
   border-radius: 10px;
