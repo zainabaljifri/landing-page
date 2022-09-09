@@ -14,6 +14,11 @@ form {
   padding: 0 10%;
 }
 
+ i {
+    margin-left: -20px;
+    cursor: pointer;
+}
+
 label {
   font-size: 0.75rem;
 }
@@ -29,7 +34,7 @@ a:hover{
 
 .box {
   background: rgb(228,233,243);
-  background: linear-gradient(180deg, rgba(228,233,243,1) 0%, rgba(255,255,255,1) 35%);
+background: linear-gradient(180deg, rgba(228,233,243,1) 0%, rgba(255,255,255,1) 35%);
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   margin: 7% auto;
   border-radius: 10px;
@@ -52,9 +57,33 @@ a:hover{
   font-size: 0.75rem;
 }
 
+.password{
+  border-right: 0;
+}
+
 .forgot-password {
   text-align: right;
 }
+.feather{
+  color:  gray;
+  height: 15px;
+  width: 15px;
+}
+.input-group-text{
+  background: white;
+  border-left: 0;
+}
+.in:focus {
+  outline: none !important;
+  border-color: #a896e7;
+  box-shadow: 0 0 10px #a896e7;
+}
+.input-group:focus {
+  outline: none !important;
+  border-color: #a896e7;
+  box-shadow: 0 0 10px #a896e7;
+}
+
 
 .btn {
   margin-bottom: 5%;
