@@ -1,4 +1,4 @@
 # landing-page
-<img width="746" alt="landing-page-lg" src="https://user-images.githubusercontent.com/80160006/189339033-055927dc-7304-4c00-9dab-a6fa4b9c44d2.png">
+<img width="674" alt="landing-page-lg" src="https://user-images.githubusercontent.com/80160006/189375268-a31cf60a-93ae-41dc-bec4-d83cff4235e6.png">
 
-<img width="310" alt="landing-page-sm" src="https://user-images.githubusercontent.com/80160006/189339440-84e25b95-7691-42a9-ba9a-f71d9535cb20.png">
+<img width="298" alt="landing-page-sm" src="https://user-images.githubusercontent.com/80160006/189375314-75af52cd-062b-4462-bce8-ec6dceed7389.png">
